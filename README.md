@@ -277,4 +277,5 @@ This project is open source and available for educational purposes.
 - Uses React Flow for interactive graph visualization
 - Powered by OpenAI GPT-3.5 for content analysis
 - Progressive disclosure pattern for better UX
- # Hello
+ # Hello#   L u m e n - A I  
+ 
